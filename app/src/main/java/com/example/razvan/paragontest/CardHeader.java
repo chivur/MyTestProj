@@ -1,10 +1,8 @@
 package com.example.razvan.paragontest;
 
-import android.util.Pair;
-
 import java.util.ArrayList;
 /**
- * Created by Maria on 3/29/2016.
+ * Created by Maria on 3/29/2019.
  */
 public class CardHeader {
 
